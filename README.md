@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <p>Desenvolvedora Front-end experiente em JavaScript | PhP | HTML | CSS | SQL.
+    Atuando na grande área do desenvolvimento web há 2 anos, construindo websites personalizados, incorporando ideias e fazendo de pequenas narrativas grandes projetos.
+  </p>
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
