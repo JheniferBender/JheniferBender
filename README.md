@@ -19,7 +19,9 @@ E mais recentemente venho estudando o amplo campo do design gráfico e identidad
 - Identidade Visual
 - Ilustração
 <br>
+
 ---
+
 ## 🎓 Educação
 <br>
 
