@@ -1,7 +1,6 @@
 <p align="center">
   <img src="images/JB_Banner.png" alt="Banner">
 </p>
----
 
 ## 👋 Sobre Mim
 <br>
