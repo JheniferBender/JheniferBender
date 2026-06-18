@@ -1,33 +1,15 @@
 <p align="center">
   <img src="images/JB_Banner.png" alt="Banner">
 </p>
-
-<h1 align="center">✨ Jhenifer Bender ✨</h1>
-
-<p align="center">
-  Desenvolvedora Front-end • Designer Gráfica • Técnica em TI
-</p>
-<br>
-
-<div align="center">
-  <a href="www.linkedin.com/in/jhenifer-bender" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-<br>
-  <a href="https://www.instagram.com/jhenifer_bender/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-<br>
-
 ---
 
 ## 👋 Sobre Mim
 <br>
 
-Olá! Sou **Jhenifer Bender**, estudante de Tecnologia da Informação, apaixonada por desenvolvimento web e design gráfico.
+Olá! Sou **Jhenifer Bender**, estudante de Design e T.I, apaixonada por desenvolvimento web e design gráfico.
 
 Atualmente atuo criando interfaces modernas, responsivas e intuitivas, buscando unir criatividade e tecnologia para transformar ideias em experiências digitais.
+E mais recentemente venho estudando o amplo campo do design gráfico e identidade visual.
 
 ### 💡 Áreas de Interesse
 
@@ -36,9 +18,7 @@ Atualmente atuo criando interfaces modernas, responsivas e intuitivas, buscando 
 - Design Gráfico
 - Desenvolvimento Web
 - Identidade Visual
-- Jogos Indie
-- Economia Solidária
-- Tecnologia e Educação
+- Ilustração
 <br>
 ---
 ## 🎓 Educação
